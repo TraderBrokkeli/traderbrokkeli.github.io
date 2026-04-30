@@ -6,6 +6,7 @@ tags:
     - adventure
 date: "2023-12-05"
 thumbnail: "/assets/img/La-Mancha.jpg"
+bookmark: true
 ---
 
 # About the book

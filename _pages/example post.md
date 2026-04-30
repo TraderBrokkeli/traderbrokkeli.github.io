@@ -7,6 +7,8 @@ thumbnail: "https://i.ibb.co/V9j2Qsg/giscus-Wl0-X3byd-az-U68-1.webp"
 bookmark: true
 ---
 
+If your page is under the _pages folder and it is not bookmarked, people wont be able to view it unless they open all posts.
+
 # Cardine conloquiumque mei inpune
 
 Lorem markdownum tura, miremur iuppiter alto: sparsit inpavidus miserae lacus,

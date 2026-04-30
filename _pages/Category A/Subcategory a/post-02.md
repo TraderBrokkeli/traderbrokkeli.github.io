@@ -2,6 +2,8 @@
 title: "Example Post: thumbnail exists"
 date: "2023-12-02"
 thumbnail: "/assets/img/thumbnail/bricks.webp"
+bookmark: true
+
 ---
 
 # Follow the guidance

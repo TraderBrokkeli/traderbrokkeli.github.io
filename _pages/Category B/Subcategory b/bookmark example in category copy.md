@@ -1,5 +1,5 @@
 ---
-title: "My personal Online Library"
+title: "This is a bookmarked example for a category"
 tags:
     - book
     - education
