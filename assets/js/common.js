@@ -3,18 +3,22 @@ var baseurl = document.querySelector('meta[name="baseurl"]').content;
 document.addEventListener('DOMContentLoaded', function(){
     // Init theme
     let currentTheme = localStorage.getItem('theme');
-    let isDarkMode = false;
+    let isDarkMode = true; // Default to dark
 
-    if (currentTheme === 'dark'){
+    if (currentTheme === 'default') {
+        isDarkMode = false;
+        const themeIcons = document.querySelectorAll(".ico-dark, .ico-light");
+        themeIcons.forEach((ico) => {
+            ico.classList.remove('active');
+        });
+    } else {
+        // 'dark' or null (first visit)
         isDarkMode = true;
         const themeIcons = document.querySelectorAll(".ico-dark, .ico-light");
 
         themeIcons.forEach((ico) => {
             ico.classList.add('active');
         });
-    }
-    else {
-        isDarkMode = false;
     }
 
     // navigation (mobile)
