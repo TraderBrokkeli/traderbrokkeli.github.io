@@ -3,9 +3,16 @@ title: "Publishing your blog post"
 tags:
     - user manual
     - writing format
-date: "2024-02-04"
-thumbnail: "/assets/img/thumbnail/sample.png"
-bookmark: true
+published: false
+permalink: abc
+---
+
+If your page is under the _pages folder and it is not bookmarked, people wont be able to view it unless they open all posts.
+
+You can also replace thumbnail with a local asset e.g. `thumbnail: "/assets/img/thumbnail/bricks.webp"`
+
+Permalink is to change the path. without permalink, this page would be `https://www.traderbrokkeli.com/posting%20guide.html` but with `permalink: abc` this page is `https://www.traderbrokkeli.com/abc`
+
 ---
 
 This section deals with the step-by-step process of how to write and publish posts on your site.
