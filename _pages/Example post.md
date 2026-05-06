@@ -2,12 +2,17 @@
 title: "This is how the frontmatter should look like"
 tags:
     - guide
+    - education
 date: "2026-04-30"
 thumbnail: "https://i.ibb.co/V9j2Qsg/giscus-Wl0-X3byd-az-U68-1.webp"
 bookmark: true
 ---
 
 If your page is under the _pages folder and it is not bookmarked, people wont be able to view it unless they open all posts.
+
+You can also replace thumbnail with a local asset e.g. `thumbnail: "/assets/img/thumbnail/bricks.webp"`
+
+---
 
 # Cardine conloquiumque mei inpune
 
