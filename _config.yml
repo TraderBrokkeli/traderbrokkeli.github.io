@@ -7,10 +7,10 @@ profile_img: "/assets/img/profile.webp"
 twitter_username: traderbrokkeli
 
 # External API
-giscus_repo: "TraderBrokkeli/traderbrokkeli.github.io"
-giscus_repoId: "R_kgDOSQar7Q"
-giscus_category: "Q&A"
-giscus_categoryId: "DIC_kwDOSQar7c4C8AT4"
+# giscus_repo: "TraderBrokkeli/traderbrokkeli.github.io"
+# giscus_repoId: "R_kgDOSQar7Q"
+# giscus_category: "Q&A"
+# giscus_categoryId: "DIC_kwDOSQar7c4C8AT4"
 goatcounter_code: traderbrokkeli
 google_analytics:
 

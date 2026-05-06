@@ -135,18 +135,18 @@ document.addEventListener('DOMContentLoaded', function(){
         });
     });
 
-    function changeGiscusTheme(theme) {
-        const iframe = document.querySelector('iframe.giscus-frame');
-        if (!iframe) return;
+    // function changeGiscusTheme(theme) {
+    //     const iframe = document.querySelector('iframe.giscus-frame');
+    //     if (!iframe) return;
 
-        const message = {
-            setConfig: {
-                theme: theme
-            }
-        };
+    //     const message = {
+    //         setConfig: {
+    //             theme: theme
+    //         }
+    //     };
 
-        iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
-    }
+    //     iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+    // }
 
     // search box
     const searchButton = document.querySelectorAll("#btn-search");
