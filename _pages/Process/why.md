@@ -5,6 +5,7 @@ tags:
 date: "2026-05-07" # year-mm-dd
 thumbnail: "../../assets/img/thumbnail/why.jpg"
 published: true
+bookmark: true
 ---
 
 # The Four Whys
@@ -39,5 +40,4 @@ Time, attention, money are all a means to an end. I want to use these tools to g
 
 ---
 
-
-These are my reasons. When things feel uncertain, I don’t need more motivation. I just need to remember what actually matters and if my actions don’t reflect any of this, then I’m not confused. I’m just avoiding what I already know.
+When things feel uncertain, I don’t need more motivation. I just need to remember what actually matters and if my actions don’t reflect any of this, then I’m not confused. I’m just avoiding what I need to do instead.
