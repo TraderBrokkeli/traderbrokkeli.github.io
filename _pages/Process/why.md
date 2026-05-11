@@ -30,7 +30,7 @@ I want to be there for my daughter when she grows up. I want to be physically an
 
 The world does not owe you anything so I think it's okay to be a little selfish and love myself before I can love others. Loving myself means to take ownership of my life, to live life on my own terms. Our existence on Earth is probabilistically impossible. The odds are so miniscule that we can't even truly comprehend it but yet here we are so why would you waste it building someone else's dreams.
 
-At the end of it all, I only have 2 questions to answer: Would the 4 year old me respect and admire my current way of life and would the 94 year old me regret anything?
+At the end of it all, I only have 2 people that I have to answer to: the 8 year old version of me and the 80 year old version of me. If they are happy then I did it right.
 
 ## My family and friends
 
