@@ -32,3 +32,4 @@ Trading things to read
 - https://www.reddit.com/r/wallstreetbets/comments/o8wqjy/a_beginner_and_intermediate_guide_to_options/
 - https://www.reddit.com/r/RealDayTrading/comments/1t068tj/sometimes_you_need_to_take_a_breath/
 - https://www.reddit.com/r/RealDayTrading/comments/1slh70v/trading_when_the_first_market_move_is_strong/
+- https://www.reddit.com/r/Daytrading/comments/ziyfa5/comment/izua09r/
