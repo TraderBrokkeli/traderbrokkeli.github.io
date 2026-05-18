@@ -1,5 +1,5 @@
 ---
-title: "The four whys"
+title: "The Four Whys"
 tags:
     - self
 date: "2026-05-07" # year-mm-dd
