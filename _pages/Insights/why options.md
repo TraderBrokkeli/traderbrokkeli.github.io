@@ -1,7 +1,8 @@
 ---
 title: "Options FAQ"
 tags:
-    - self
+    - beginner
+    - options
 date: "2026-05-07" # year-mm-dd
 thumbnail: ""
 published: false

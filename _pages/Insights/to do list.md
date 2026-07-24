@@ -8,6 +8,7 @@ published: false
 ---
 
 Trading videos to watch
+- https://www.youtube.com/watch?v=52ZsDmFHqyY
 - https://www.youtube.com/watch?v=qTNvt8w7yjE
 - https://www.youtube.com/watch?v=Uzq1jgNKuBc
 - https://www.youtube.com/watch?v=WN9zDl_3Ujo
@@ -19,6 +20,9 @@ Trading videos to watch
 - https://x.com/tradermatt/status/2047011762931953769
 - https://youtu.be/8lhYu10v0NQ?si=qofqGSrQcFIq4q6U
 - https://www.youtube.com/watch?v=ioGmfjQaSpU
+- https://www.youtube.com/watch?v=NvGzW1wWf3c
+- https://youtu.be/JzxGOoYsAv0?is=nBgAa7ISjxjVraAw
+- https://www.youtube.com/watch?v=52ZsDmFHqyY
 
 Trading things to read
 - https://www.reddit.com/r/thetagang/comments/ifrnu1/rthetagang_needs_a_faqwiki_so_i_wrote_one/
